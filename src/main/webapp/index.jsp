@@ -44,7 +44,7 @@
 <hr>
 
 <div>
-    <h4>Host Name machine: <span><%=  hostName %></span></h4>
+    <h4>Host Name varshini: <span><%=  hostName %></span></h4>
     <h4>IP Address: <span><%=  ipAddr %></span></h4>
     <h4>JVM Name: <span><%=  serverName %></span></h4>
     <h4> Date & Time now: <span> <%= Dtime %></h4>
